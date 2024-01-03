@@ -162,4 +162,4 @@ jobs:
           Device: ${{ github.event.inputs.DEVICE_NAME }}
           Target: ${{ github.event.inputs.BUILD_TARGET }}.img
       env:
-        GITHUB_TOKEN: ${{ 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 }}
+        GITHUB_TOKEN: ${{  }}
